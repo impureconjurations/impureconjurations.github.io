@@ -16,13 +16,23 @@ p {
 h1 {
 	font-family: Seagram tfb Regular; src: url('fonts/Seagram tfb.ttf');
 	font-style: italic;
+    	font-size: 24px;
 	color: #ffffff;
 }
+@media screen and (max-width: 800px) {
+  h1 {
+    font-size: 18px;
+  }
 
 h2 {
 	font-family: Times New Roman;
 	color: #ffffff;
+    	font-size: 20px;
 }
+@media screen and (max-width: 800px) {
+  h2 {
+    font-size: 16px;
+  }
 
 div {
 	margin-left: auto;
