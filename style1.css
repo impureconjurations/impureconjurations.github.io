@@ -1,0 +1,48 @@
+body {
+    background-color: black;}
+
+a {
+    margin-left: auto;
+    margin-right: auto;
+	font-family: Seagram tfb Regular; src: url('fonts/Seagram tfb.ttf');
+	color: #ffffff;
+}
+
+p {
+	font-family: Times New Roman;
+	color: #ffffff;
+}
+
+h1 {
+	font-family: Seagram tfb Regular; src: url('fonts/Seagram tfb.ttf');
+	font-style: italic;
+	color: #ffffff;
+}
+
+h2 {
+	font-family: Times New Roman;
+	color: #ffffff;
+}
+
+div {
+	margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    margin: 25px;
+}
+
+ul {
+	font-family: Seagram tfb Regular; src: url('fonts/Seagram tfb.ttf');
+	color: #ffffff;
+}
+
+li {
+	font-family: Seagram tfb Regular; src: url('fonts/Seagram tfb.ttf');
+	color: #ffffff;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
