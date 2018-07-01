@@ -49,8 +49,13 @@ div {
 
 ul {
 	font-family: Seagram tfb Regular; src: url('Seagram tfb.ttf');
+	font-size: 16px;
 	color: #ffffff;
 }
+@media screen and (max-width: 800px) {
+  ul {
+    font-size: 12px;
+  }
 
 li {
 	font-family: Seagram tfb Regular; src: url('Seagram tfb.ttf');
