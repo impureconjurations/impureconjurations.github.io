@@ -7,6 +7,16 @@ a {
     margin-right: auto;
 	font-family: Seagram tfb Regular; src: url('fonts/Seagram tfb.ttf');
 	color: #ffffff;
+	font-size: 18px;
+}
+@media screen and (max-width: 800px) {
+	a {
+    margin-left: auto;
+    margin-right: auto;
+	font-family: Seagram tfb Regular; src: url('fonts/Seagram tfb.ttf');
+	color: #ffffff;
+	font-size: 14px;
+     }
 }
 
 p {
@@ -16,7 +26,9 @@ p {
 }
 @media screen and (max-width: 800px) {
   p {
-    font-size: 12px;
+    font-family: Times New Roman;
+	font-size: 12px;
+	color: #ffffff;
   }
 
 h1 {
@@ -27,7 +39,10 @@ h1 {
 }
 @media screen and (max-width: 800px) {
   h1 {
-    font-size: 18px;
+    font-family: Seagram tfb Regular; src: url('fonts/Seagram tfb.ttf');
+	font-style: italic;
+    	font-size: 18px;
+	color: #ffffff;
   }
 
 h2 {
@@ -37,7 +52,9 @@ h2 {
 }
 @media screen and (max-width: 800px) {
   h2 {
-    font-size: 16px;
+    font-family: Seagram tfb Regular; src: url('fonts/Seagram tfb.ttf');
+	color: #ffffff;
+    	font-size: 16px;
   }
 
 div {
@@ -54,7 +71,9 @@ ul {
 }
 @media screen and (max-width: 800px) {
   ul {
-    font-size: 12px;
+    font-family: Times New Roman;
+	font-size: 12px;
+	color: #ffffff;
   }
 
 li {
@@ -64,7 +83,9 @@ li {
 }
 @media screen and (max-width: 800px) {
   li {
-    font-size: 12px;
+    font-family: Times New Roman;
+	font-size: 12px;
+	color: #ffffff;
   }
 
 img {
