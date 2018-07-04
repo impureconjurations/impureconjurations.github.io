@@ -75,6 +75,23 @@ footer {
   margin-right: auto;
 }
 
+form {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+input, textarea{
+ font-family: Times New Roman;
+  font-size: 20px;
+  padding: 10px;
+}
+
+button{
+  padding: 5px;
+  font-family: 'seagram_tfbregular';
+  font-size: 36px;
+
 /* @media screen and (max-width: 800px) {
 	a {
     margin-left: auto;
