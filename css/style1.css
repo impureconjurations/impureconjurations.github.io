@@ -32,6 +32,10 @@ p {
 	color: #ffffff;
 }
 
+.footer {
+  font-family: 'seagram_tfbregular';
+}
+
 h1 {
 	font-family: 'seagram_tfbregular';
 	font-style: italic;
@@ -81,13 +85,13 @@ form {
   padding: 10px;
 }
 
-input, textarea{
+input, textarea {
  font-family: Times New Roman;
   font-size: 16px;
   padding: 10px;
 }
 
-button{
+button {
   padding: 5px;
   font-family: 'seagram_tfbregular';
   font-size: 32px;
