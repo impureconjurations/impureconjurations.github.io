@@ -104,6 +104,30 @@ button {
   font-size: 32px;
 }
 
+@media screen and (max-width: 1100px) {
+  nav {
+    font-size: 32px;
+  }
+  p {
+    font-size: 20px;
+  }
+  h1 {
+    font-size: 28px;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  li {
+    font-size: 20px;
+  }
+  button{
+    font-size: 32px;
+  }
+  .headimg {
+    width: 70%;
+  }
+}
+
 @media screen and (max-width: 800px) {
   nav {
     font-size: 20px;
