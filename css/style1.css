@@ -101,7 +101,7 @@ input, textarea {
 button {
   padding: 5px;
   font-family: 'seagram_tfbregular';
-  font-size: 32px;
+  font-size: 24px;
 }
 
 @media screen and (max-width: 1100px) {
@@ -121,7 +121,7 @@ button {
     font-size: 20px;
   }
   button{
-    font-size: 32px;
+    font-size: 24px;
   }
   .headimg {
     width: 70%;
@@ -145,7 +145,7 @@ button {
     font-size: 18px;
   }
   button{
-    font-size: 28px;
+    font-size: 20px;
   }
   .headimg {
     width: 80%;
