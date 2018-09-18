@@ -106,7 +106,7 @@ button {
 
 @media screen and (max-width: 1100px) {
   nav {
-    font-size: 32px;
+    font-size: 28px;
   }
   p {
     font-size: 20px;
@@ -130,7 +130,7 @@ button {
 
 @media screen and (max-width: 760px) {
   nav {
-    font-size: 20px;
+    font-size: 18px;
   }
   p {
     font-size: 18px;
