@@ -66,6 +66,7 @@ ul {
   font-size: 32px;
   font-family: 'seagram_tfbregular';
   list-style-type: none;
+  list-style: none;
   margin-left: auto;
   margin-right: auto;
   padding: 10px;
@@ -140,6 +141,7 @@ button {
   font-size: 28px;
   font-family: 'seagram_tfbregular';
   list-style-type: none;
+  list-style: none;
   margin-left: auto;
   margin-right: auto;
   padding: 10px;
@@ -174,6 +176,7 @@ button {
   font-size: 22px;
   font-family: 'seagram_tfbregular';
   list-style-type: none;
+  list-style: none;
   margin-left: auto;
   margin-right: auto;
   padding: 10px;
