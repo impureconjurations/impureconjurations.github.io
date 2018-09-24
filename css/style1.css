@@ -152,7 +152,7 @@ button {
 
 @media screen and (max-width: 760px) {
   nav {
-    font-size: 18px;
+    font-size: 24px;
   }
   p {
     font-size: 18px;
@@ -173,7 +173,7 @@ button {
     width: 80%;
   }
   .nav {
-  font-size: 22px;
+  font-size: 24px;
   font-family: 'seagram_tfbregular';
   list-style-type: none;
   list-style: none;
