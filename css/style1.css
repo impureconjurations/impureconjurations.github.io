@@ -72,6 +72,10 @@ li {
   padding-right: 5px;
 }
 
+li::marker {
+  font-family: 'seagram_tfbregular';
+}
+
 .nav {
   font-size: 32px;
   font-family: 'seagram_tfbregular';
